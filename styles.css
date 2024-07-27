@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0 5em;
+    line-height: 1.6;
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+header {
+    padding: 1em 0;
+}
+
+nav ul {
+    padding: 0 1em;
+    margin: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: calc(100% - 40em);
+    bottom: 0;
+    left: 20em;
+}
